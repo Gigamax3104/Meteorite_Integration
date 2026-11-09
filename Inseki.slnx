@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Inseki.vcxproj" Id="2695388f-0bd7-4a4c-96d4-362b4662551e" />
+</Solution>
