@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="meteorite.vcxproj" Id="28028c98-24da-4c29-8c04-384f8bb7bb68" />
+</Solution>

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="earth.vcxproj" Id="236e68d1-e402-4e0b-82e0-05d53e1d70f2" />
+</Solution>

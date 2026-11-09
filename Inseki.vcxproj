@@ -159,6 +159,13 @@
     <ClCompile Include="cpp\TitleState.cpp" />
     <ClCompile Include="Cpp\Vector.cpp" />
     <ClCompile Include="Cpp\Main.cpp" />
+    <ClCompile Include="Itou\ContentCreation2026_10_19\Ammo.cpp" />
+    <ClCompile Include="Itou\ContentCreation2026_10_19\Temp.cpp" />
+    <ClCompile Include="Itou\ContentCreation2026_10_19\Turret.cpp" />
+    <ClCompile Include="Iwasaki\meteorite-master\GameScene.cpp" />
+    <ClCompile Include="Kihara\earth-master\Earth.cpp" />
+    <ClCompile Include="Matsunaga\Collision\Collision.cpp" />
+    <ClCompile Include="Matsunaga\Meteorite\Meteorite.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="h\Color.h" />
@@ -172,6 +179,13 @@
     <ClInclude Include="h\StateBase.h" />
     <ClInclude Include="h\TitleState.h" />
     <ClInclude Include="h\Vector.h" />
+    <ClInclude Include="Itou\ContentCreation2026_10_19\Ammo.h" />
+    <ClInclude Include="Itou\ContentCreation2026_10_19\Temp.h" />
+    <ClInclude Include="Itou\ContentCreation2026_10_19\Turret.h" />
+    <ClInclude Include="Iwasaki\meteorite-master\GameScene.h" />
+    <ClInclude Include="Kihara\earth-master\Earth.h" />
+    <ClInclude Include="Matsunaga\Collision\Collision.h" />
+    <ClInclude Include="Matsunaga\Meteorite\Meteorite.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
